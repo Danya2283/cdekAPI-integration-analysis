@@ -6,6 +6,7 @@
 стажёра-аналитика.
 
 **ССЫЛКА НА DOC ФАЙЛ** https://docs.google.com/document/d/1AeKefYsa4gjG6Ch36UeOzp-YQXt5cxE2/edit?usp=sharing&ouid=100471419504914423908&rtpof=true&sd=true
+
 **ССЫЛКА НА DOC ФАЙЛ ДЛЯ СКАЧИВАНИЯ С GOOGLE DISK** https://drive.google.com/drive/folders/1uWepPvyR4_g00_JReZXuThl_qjDqpvRn?usp=sharing
 
 
