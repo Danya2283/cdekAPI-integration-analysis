@@ -21,7 +21,7 @@
 | [Вопросы к заказчику](01_questions/questions-and-answers.md) | 10 вопросов в 5 блоках с ответами и обоснованием |
 | [Участники и RACI](02_process/stakeholders-raci.md) | Стейкхолдеры, роли, матрица ответственности |
 | [TO-BE процесс](02_process/to-be-process.md) | Описание целевого процесса и Gap Analysis AS-IS → TO-BE |
-| [BPMN-схема](02_process/bpmn-scheme.png) | Схема процесса в нотации BPMN 2.0 с тремя swimlane |
+| [BPMN-схема](02_process/bpmn-scheme.svg) | Схема процесса в нотации BPMN 2.0 с тремя swimlane |
 | [User Stories](03_requirements/user-stories.md) | 7 пользовательских историй с Acceptance Criteria (Given/When/Then) |
 | [Матрица ошибок](03_requirements/error-matrix.md) | 7 сценариев обработки ошибок с классификацией по критичности |
 | [NFR](03_requirements/nfr.md) | Нефункциональные требования: производительность, безопасность, надёжность |
